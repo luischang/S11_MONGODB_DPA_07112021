@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S11_MONGODB_DPA.API", "S11_MONGODB_DPA.API\S11_MONGODB_DPA.API.csproj", "{DEC5061F-839E-4777-BC0E-9F78EC63F54A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEC5061F-839E-4777-BC0E-9F78EC63F54A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC5061F-839E-4777-BC0E-9F78EC63F54A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEC5061F-839E-4777-BC0E-9F78EC63F54A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEC5061F-839E-4777-BC0E-9F78EC63F54A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16B36860-8A0F-49D5-9122-32C23E968C01}
+	EndGlobalSection
+EndGlobal
